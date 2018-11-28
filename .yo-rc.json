@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ltr.micro",
+      "nativeLanguage": "zh-cn"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.ltr.micro",
+    "packageFolder": "com/ltr/micro",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTJiZmVhYmUxNDlhNzBjMzBlMzdkZjIzM2UzM2JhYjEwY2FkMTQzODkwN2FlYWVmN2E3NWI5YWVmMDM2NWY1Zjg0N2I4YzZmMmQxODE3ODBkYzQ4MTNkODM3YzUzZTc1YTI5MWM2Y2M1OWE5NDc0MDY2N2U1ZTE5NjFkNmE2MjM=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-cn"
+    ]
+  }
+}
